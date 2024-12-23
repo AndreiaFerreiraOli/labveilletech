@@ -10,10 +10,13 @@
               {{ .Params.heading }}
             </h1>
           </div>
+         
           <div class="site-about-description">
+            <br>
             <p>
               {{ .Description }}
             </p>
+          </br>
           </div>
         </div>
       </div>
@@ -25,9 +28,14 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center">
+        <br>
         <h2>{{ .Params.new_section_title }}</h2>
+        <br>
         <h4>{{ .Params.new_section_paragraph }}</h4>
+        <br>
         <img src="{{ .Params.new_section_image }}" alt="Mon ikigaï" class="centered-image">
+        <br>
+        <p>Mon ikigaï</p>
       </div>
     </div>
   </div>
@@ -77,11 +85,19 @@
                 {{ range .Params.expertise_domaine_sectors }}
                 <li>{{ . }}</li>
                 {{ end }}
-              </ul>
+              </ul> 
             </div>
-      
+    </div>
+    <br>
+    <div class="row">
+        <div class="section-title">
+          <h2>{{ .Params.additional_title }}</h2>
+          <p>{{ .Params.additional_paragraph }}</p>
+        </div>
+      </div>
     </div>
   </div>
+  
 </section>
 
 

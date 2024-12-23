@@ -7,7 +7,8 @@ J'adore créer, que ce soit de manière manuelle, comme la peinture, la poterie 
 A l'avenir, je serai intéressée de travailler dans l'UX/UI, la communication et/ou le marketing. "
 
 new_section_title: "Chargée de création"
-# new_section_image: "ikigai.png"
+
+new_section_image: "ikagai.svg"
 
 new_section_paragraph: "Ce métier allie conception et développement de projets créatifs. Je l'ai choisi car c'est un métier à la fois créatif, polyvalent et collaboratif, des caractéristiques qui résonnent avec mes valeurs."
 
@@ -35,4 +36,7 @@ expertise_domaine_sectors:  [
 "Producteur graphique",
 
 ]
+
+additional_title: "Choix du SSG"
+additional_paragraph: "J’ai décidé d’utiliser Hugo comme générateur de site statique pour sa simplicité, ce qui est parfait pour moi, car le code et moi ne sommes pas vraiment amis. Parmi tous les thèmes disponibles, j’ai choisi le thème Roxo Hugo. Ce qui m’a premièrement attirée, a été les touches rose, mais je l’ai aussi choisi pour sa mise en page à la fois simple mais esthétique."
 ---

@@ -1,28 +1,20 @@
 ---
-title: "USE-LESS BRAND"
+title: "Le design graphique en 2025"
 date: 2019-12-23T15:58:10+06:00
-type: portfolio
-image: "images/projects/project-thumb-one.jpg"
-category: ["UI UX"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+image: "images/projects/design.jpeg"
+category: ["VIDEO"]
+project_images: ["images/projects/design.jpeg"]
+project_link: "https://www.youtube.com/watch?v=4oBkm4YPkQM"
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+Cette vidéo liste et décrit toutes les tendances à venir pour l’année 2025. En tant que chargée de création, c’est une vidéo qui est très enrichissante car je suis quelqu'un qui garde toujours un œil sur les nouveautés en termes de design et cela peut m’inspirer pour de futur projet.
+Voici quelques tendances qui vont marquer l’année 2025 :
+1.	Le design abstrait, un design qui change des formes traditionnelles et qui permettra une expression créative libre en alliant couleur, forme et texture.
+2.	L’animation storytelling deviendra plus interactive et immersive, avec des animations fluides et naturels qui semblent réalistes même dans des designs abstraits ou minimalistes grâce à l’IA. 
+3.	La typographie créative qui intègre toutes sortes de textures, objets et autres comme par exemple la nourriture, qui permet de rendre le texte plus captivant et ainsi améliorer l’expérience utilisateur.
 
+### Intérêt pour la vidéo
 
-The watch has the following features:
+Pour une chargée de création, il est indispensable de toujours être à l’affût de nouvelles tendances car elles évoluent assez rapidement. En restant informée, je peux anticiper les besoins du marché et proposer des projets nouveaux et adaptés.
+Toutes les tendances citées ci-dessus m’ont particulièrement intéressé mais celle qui a le plus captivé ma curiosité a été l’animation storytelling. J’ai hâte de voir ce qui sera réalisé dans le domaine car on peut déjà constater aujourd’hui à quel point l’IA évolue rapidement.
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
-
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
-
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
-
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
-
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
